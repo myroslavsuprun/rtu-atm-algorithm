@@ -1,0 +1,22 @@
+input {
+  color: #656880;
+  border: 2px solid #daddec;
+  margin: 5px 0 10px;
+  font-size: 1rem;
+}
+
+button {
+  color: $ primary-color;
+  cursor: $ cursor;
+  background-image: linear-gradient(to right, #89caff, #6589ff);
+  font-size: 1rem;
+  transition: box-shadow .3s ease-in-out;
+  display: block;
+  box-shadow: 0 5px 20px #89caff94;
+}
+
+button:hover {
+  box-shadow: none;
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */
